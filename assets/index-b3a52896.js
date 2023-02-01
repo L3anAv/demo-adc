@@ -440,7 +440,7 @@ var Rp=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports);var L7=Rp((lt,at)
     height:200;
   }
 
-`,Ch=({MenuOff:e})=>W(Ce,{children:[p(is,{urlFondo:"src/componentes/images/imagen-principal-web-adc.jpeg",height:"638px"}),p(os,{MenuOff:e}),p(dh,{})]}),Eh=$.div`
+`,Ch=({MenuOff:e})=>W(Ce,{children:[p(is,{urlFondo:"/demo-adc/src/componentes/images/imagen-principal-web-adc.jpeg",height:"638px"}),p(os,{MenuOff:e}),p(dh,{})]}),Eh=$.div`
   display:flex;
   overflow:hidden;
   margin-bottom: 10%;
