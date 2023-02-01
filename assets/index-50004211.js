@@ -454,7 +454,7 @@ var Mp=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports);var D7=Mp((lt,at)
   justify-content:center;
   animation:${e=>e.animation};
 `,Ah=$.h2`
-  z-index:1;
+  z-index:-1;
   font-size:4rem;
   jusitfy-self:center;
   font-family:TituloPrincipal;
@@ -469,6 +469,7 @@ var Mp=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports);var D7=Mp((lt,at)
   }
 
 `,Oc=$.img`
+  z-index:-1;
   width:450px;
   cursor:pointer;
   transform:scale(0.4);
